@@ -3,6 +3,8 @@ Pumpad BOT
 
 Register Here : [Pumpad](https://t.me/Pumpad_Bot/Lucky?startapp=62254490618731379)
 
+Join Our Script Channel:- https://t.me/HACKER_WORLD_BD
+
 ## Fitur
 
   - Auto Get Account Information
@@ -55,4 +57,4 @@ python bot.py #or python3 bot.py
 Terima kasih telah mengunjungi repository ini, jangan lupa untuk memberikan kontribusi berupa follow dan stars.
 Jika Anda memiliki pertanyaan, menemukan masalah, atau memiliki saran untuk perbaikan, jangan ragu untuk menghubungi saya atau membuka *issue* di repositori GitHub ini.
 
-**vonssy**
+**HACKER WORLD BD 😈**
